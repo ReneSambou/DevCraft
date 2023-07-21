@@ -111,19 +111,12 @@ nav.active{
 
 
 .home{
-<<<<<<< HEAD
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     display: grid;
     grid-template-columns: 50% 50%;
     
-=======
-    margin-top: 20%;  
-    padding-top: 5.8%;
-    position: relative;
-    height: 100%;
->>>>>>> fbf988ead022b76a3f3987290368952678f7296e
  }
 
 
