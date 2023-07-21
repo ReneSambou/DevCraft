@@ -28,7 +28,10 @@ for (let i = 0; i < text.length; i++) {
   }, delay);
 }
 
-
+$('#nav-toggle').click(function(){
+  $(this).toggleClass('is-active')
+  $('ul.nav').toggleClass('show');
+});
 
 
 const teamDescription = document.querySelector('.team-description');
