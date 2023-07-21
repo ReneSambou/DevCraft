@@ -24,9 +24,8 @@ This project was developed by the DevCraft team using the following technologies
 
 To set up this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/tema-fuel-website.git`
-2. Navigate to the project directory: `cd tema-fuel-website`
-3. Open the `index.html` file in your preferred web browser.
+1. Clone the repository: `git clone https://github.com/ReneSambou/DevCraft.git`
+2. Open the `index.html` file in your preferred web browser.
 
 ## File Structure
 
